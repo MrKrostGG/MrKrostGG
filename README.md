@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MrKrostGG
+- 👋 Hi, I’m @MrKrost
 - 👀 I’m interested in С++, C#, Python;
 - 🌱 I’m currently learning С++; C#;
-- 💞️ I’m looking to collaborate on Google, Yandex, Apple;
-- 📫 How to reach me ivankrostivan@gmail.com
+- 📫 How to reach me itiskrost@gmail.com
 
 <!---
 MrKrostGG/MrKrostGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
